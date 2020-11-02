@@ -1,3 +1,10 @@
+/*
+Simple snake game.
+
+Author: stati30241
+Youtube: https://www.youtube.com/channel/UC7Lx000LLDX6CU0qsyHGfQw
+*/
+
 #include <SFML/Graphics.hpp>
 
 #include <cstddef>
